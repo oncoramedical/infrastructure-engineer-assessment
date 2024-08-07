@@ -33,6 +33,6 @@ Here are the core components your platform might include:
 
 ---
 
-**Estimated Time**: We expect this assessment to take approximately 2 to 3 hours to complete.
+**Estimated Time**: We expect this assessment to take approximately 2 to 3 hours to complete. Please use this estimate as a guide to determine the level of detail for your diagram.
 
 We’re looking forward to seeing your creativity and technical skills at work. Take your time, and don’t hesitate to reach out if you have any questions. Good luck!
